@@ -17,6 +17,7 @@ public class Concatenation {
 
         System.out.println("Our calculation result = " + sum);
         System.out.println("Our calculation result = " + sum1);
+        System.out.println();
 
 
 
