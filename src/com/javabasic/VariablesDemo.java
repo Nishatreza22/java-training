@@ -10,6 +10,7 @@ public class VariablesDemo {
         String name = "Shirt";
         double price = 44.99;
         price = 39.99;
+        price = 34.99;
         System.out.println( name + " " + "Price" + " " + price);
 
 
